@@ -1,0 +1,7 @@
+region = "us-east-2"
+ami = "ami-040f3334e1a9b3458"
+tags = "test"
+instance_type = "t2.micro"
+subnet_id = "te"
+vpc_security_group_id = "te"
+key_name = "te"
