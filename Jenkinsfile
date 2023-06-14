@@ -14,7 +14,7 @@ pipeline {
         }
         stage('Clone Repository') {
             steps {
-                git branch: 'main', url: 'https://github.com/TGS-INFRA/tek-infra.git'
+                git branch: 'main', url: 'https://github.com/TGSINFRA/tekinfra.git'
             }
         }
         
