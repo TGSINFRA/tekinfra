@@ -1,7 +1,0 @@
-region = "us-east-1"
-ami = "ami-02bf3fea296e7a751"
-tags = "test1"
-instance_type = "t2.micro"
-subnet_id = "etst1a"
-vpc_security_group_id = "sssccc"
-key_name = "cdcdd"
