@@ -1,0 +1,7 @@
+region = "us-east-1"
+ami = "ami-02bf3fea296e7a751"
+tags = "et1"
+instance_type = "t2.micro"
+subnet_id = "et1"
+vpc_security_group_id = "et1"
+key_name = "et1"
