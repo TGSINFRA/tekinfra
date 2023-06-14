@@ -1,7 +1,0 @@
-region = ""
-ami = ""
-tags = ""
-instance_type = ""
-subnet_id = ""
-vpc_security_group_id = ""
-key_name = ""
