@@ -1,0 +1,7 @@
+region = "us-east-1"
+ami = "ami-02bf3fea296e7a751"
+tags = "test1"
+instance_type = "t2.micro"
+subnet_id = "subnet-0fec0d10a6ca1c971"
+vpc_security_group_id = "sg-0eafcef47779c6086"
+key_name = "vth"
