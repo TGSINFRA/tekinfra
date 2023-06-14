@@ -1,7 +1,0 @@
-key_name = "vth-west-1"
-tags = "prod-app-test"
-subnet_id = "subnet-005ec73b4d2d84c00"
-instance_type = "t2.micro"
-ami = "ami-0f8e81a3da6e2510a"
-region = "us-west-1"
-vpc_security_group_id = "sg-0d4b2a2a0ab4b4806"
