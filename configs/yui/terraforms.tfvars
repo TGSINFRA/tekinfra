@@ -1,0 +1,7 @@
+region = "us-east-1"
+ami = "ami-02bf3fea296e7a751"
+tags = "yui"
+instance_type = "t2.micro"
+subnet_id = "yui"
+vpc_security_group_id = "yui"
+key_name = "yui"
