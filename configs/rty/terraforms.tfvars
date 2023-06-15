@@ -1,7 +1,0 @@
-region = "us-west-1"
-ami = "ami-04d1dcfb793f6fa37"
-tags = "rty"
-instance_type = "t2.micro"
-subnet_id = "tr"
-vpc_security_group_id = "tr"
-key_name = "try"
