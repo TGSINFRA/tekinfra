@@ -1,5 +1,5 @@
 key_name = "vth"
-tags = "dev-vm"
+tags = "dev-vm-1"
 subnet_id = "subnet-0fec0d10a6ca1c971"
 instance_type = "t2.micro"
 ami = "ami-0261755bbcb8c4a84"
