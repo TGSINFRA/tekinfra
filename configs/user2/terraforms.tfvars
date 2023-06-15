@@ -1,5 +1,5 @@
 region = "us-east-1"
-ami = "ami-02bf3fea296e7a751"
+ami = "ami-0261755bbcb8c4a84"
 tags = "user1"
 instance_type = "t2.micro"
 subnet_id = "subnet-0fec0d10a6ca1c971"
