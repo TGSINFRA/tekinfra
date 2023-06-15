@@ -1,7 +1,0 @@
-region = "us-west-2"
-ami = "ami-063cc140458d19824"
-tags = "re"
-instance_type = "t2.micro"
-subnet_id = "re"
-vpc_security_group_id = "re"
-key_name = "re"
