@@ -1,0 +1,7 @@
+region = "us-east-1"
+ami = "ami-02bf3fea296e7a751"
+tags = "wq"
+instance_type = "c4.8xlarge"
+subnet_id = "qww"
+vpc_security_group_id = "wwe"
+key_name = "qq"
