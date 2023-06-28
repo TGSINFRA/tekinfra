@@ -1,7 +1,0 @@
-region = "us-east-1"
-ami = "ami-02bf3fea296e7a751"
-tags = "de"
-instance_type = "t3.2xlarge"
-subnet_id = "df"
-vpc_security_group_id = "df"
-key_name = "df"
