@@ -1,0 +1,7 @@
+region = "us-east-1"
+ami = "ami-02bf3fea296e7a751"
+tags = "er"
+instance_type = "t3.2xlarge"
+subnet_id = "er"
+vpc_security_group_id = "er"
+key_name = "er"
