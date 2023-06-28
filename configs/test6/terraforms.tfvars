@@ -1,0 +1,7 @@
+region = "us-east-1"
+ami = "ami-02bf3fea296e7a751"
+tags = "65"
+instance_type = "t3.2xlarge"
+subnet_id = "rr"
+vpc_security_group_id = "rr"
+key_name = "rr"
