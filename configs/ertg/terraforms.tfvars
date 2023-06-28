@@ -1,0 +1,7 @@
+region = "us-east-1"
+ami = "ami-02bf3fea296e7a751"
+tags = "efd"
+instance_type = "t2.micro"
+subnet_id = "dfd"
+vpc_security_group_id = "dfdf"
+key_name = "dgfdg"
